@@ -81,12 +81,12 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          {to: '/blog', label: 'Blog', position: 'right'},
+          // {to: '/blog', label: 'Blog', position: 'right'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'right',
-            label: 'Project',
+            label: '笔记',
           },
           {
             href: 'https://github.com/fuendi',

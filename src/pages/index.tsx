@@ -12,7 +12,7 @@ function HomepageHeader() {
   // const {siteConfig} = useDocusaurusContext();
   return (
     <div className={styles.container}>
-    Hi，我是Fuendi，全栈开发一名，Base杭州，主要技术栈是React和Nest.js，也写过Vue和微信小程序，同时我也是一名魂类游戏爱好者，这里是我的博客，也是我的树洞，我会将一些学习的过程和生活的分享在这里
+    笔记还在迁移中,请过一段时间再来看吧...
     </div>
   );
 }

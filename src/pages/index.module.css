@@ -28,6 +28,7 @@
   word-wrap: break-word;
   word-break: keep-all;
   user-select: none;
+  text-align: center;
 }
 
 .mainContainer {
